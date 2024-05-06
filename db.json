@@ -1,0 +1,41 @@
+{
+  "posts":[
+    {
+      "id": 1,
+      "title": "The Art of Cooking",
+      "description": "Discover the secrets of culinary mastery with our comprehensive guide to cooking. From basic techniques to advanced recipes, embark on a journey to elevate your skills in the kitchen.",
+      "likes": 1259
+    },
+    {
+      "id": 2,
+      "title": "Exploring the Cosmos",
+      "description": "Embark on an astronomical adventure through the cosmos. Journey through the depths of space, uncovering the mysteries of distant galaxies, black holes, and the origins of the universe.",
+      "likes": 230
+    },
+    {
+      "id": 3,
+      "title": "The Power of Meditation",
+      "description": "Unlock inner peace and tranquility through the transformative practice of meditation. Learn techniques to reduce stress, increase mindfulness, and cultivate a deeper connection with yourself.",
+      "likes": 320
+    },
+    {
+      "id": 4,
+      "title": "Mastering Productivity",
+      "description": "Achieve peak productivity with proven strategies and techniques. From time management to goal setting, optimize your workflow and accomplish more in less time.",
+      "likes": 180
+    },
+    {
+      "id": 5,
+      "title": "The World of Literature",
+      "description": "Immerse yourself in the rich tapestry of literature from around the world. Explore timeless classics, contemporary masterpieces, and hidden gems waiting to be discovered.",
+      "likes": 270
+    },
+    {
+      "id": 6,
+      "title": "Unleash Your Creativity",
+      "description": "Tap into your creative potential and unleash your imagination. Whether you're an artist, writer, or innovator, discover techniques to overcome creative blocks and express yourself freely.",
+      "likes": 200
+    }
+  ]
+  
+}
